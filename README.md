@@ -1,5 +1,7 @@
 # LINUSWEBSITE
 
-![image](https://user-images.githubusercontent.com/59786992/209996245-ab79024c-6808-4c2b-9597-91f8f2c99244.png)
+![image](https://user-images.githubusercontent.com/59786992/209996878-d13ec370-21bb-435b-8d0a-ce8d27f1f53c.png)
 
-![image](https://user-images.githubusercontent.com/59786992/209996271-00112818-48b8-459f-a93b-3968ab611c62.png)
+
+![image](https://user-images.githubusercontent.com/59786992/209996926-8979a4ab-ec6d-4493-8be9-459e521120aa.png)
+
