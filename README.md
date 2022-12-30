@@ -1,4 +1,4 @@
-# LINUSWEBSITE
+# A simple beginner-friendly HTML website
 
 ![image](https://user-images.githubusercontent.com/59786992/209996878-d13ec370-21bb-435b-8d0a-ce8d27f1f53c.png)
 
